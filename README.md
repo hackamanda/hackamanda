@@ -17,8 +17,10 @@
 
 <h3 align="left">Technologies and Tools:</h3>
 <p style="text-align:left">
+  
             
-<a href="https://firebase.google.com/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" alt="firebase" height="30" width="30" /></a>
+<a href="https://swift.com/" target="blank"><img align="center" src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor" alt="Swift" height="50" width="40" /></a>
+<a href="https://firebase.google.com/" target="blank"><img align="center" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=pt-br" alt="firebase" height="50" width="35" /></a>
 
 </p>
 <hr></hr>
