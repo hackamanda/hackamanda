@@ -18,6 +18,11 @@
             
 <a href="https://swift.com/" target="blank"><img align="center" src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor" alt="Swift" height="50" width="40" /></a>
 <a href="https://firebase.google.com/" target="blank"><img align="center" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=pt-br" alt="firebase" height="50" width="35" /></a>
+<a href="https://developer.apple.com/xcode/" target="blank"><img align="center" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" height="45" width="45" /></a>
+<a href="https://git-scm.com/" target="blank"><img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="45" width="45" /></a>
+  
 
+  
+  
 </p>
 <hr></hr>
