@@ -1,11 +1,13 @@
 <h1 align="center"><img src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo-1.png" width="20" /> Prazer, eu me chamo Amanda!</h1>
 <h3 align="center"> iOS Software Developer Student</h3>
 <div align="center">
-  <a href="https://github.com/hackamanda">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hackamanda&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackamanda&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackamanda&theme=jolly&show_icons=true&hide=issues&)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackamanda&layout=compact&theme=jolly&)](https://github.com/hackamanda/github-readme-stats)
+
+  
+  
+  
   
   <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
