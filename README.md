@@ -2,9 +2,8 @@
 <h3 align="center"> iOS Software Developer Student</h3>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackamanda&theme=jolly&show_icons=true&hide=issues&)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackamanda&layout=compact&theme=jolly&)](https://github.com/hackamanda/github-readme-stats)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hackamanda&theme=jolly&show_icons=true&hide=issues" alt="hackamanda" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackamanda&layout=compact&theme=jolly&hide=issues" alt="hackamanda" width="50%" /></p>
   
   
   
