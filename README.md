@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo-1.png" width="20" /> Prazer, eu me chamo Amanda!</h1>
-<h3 align="center"> iOS Software Developer Student</h3>
+<h3 align="center"> iOS Software Engineer @ Mercado Livre </h3>
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hackamanda&theme=jolly&show_icons=true&hide=issues" alt="hackamanda" width="48%" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackamanda&layout=compact&theme=jolly&hide=issues" alt="hackamanda" width="48%" /></p>
